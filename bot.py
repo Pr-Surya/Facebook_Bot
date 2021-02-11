@@ -86,7 +86,7 @@ class FacebookBot:
         sleep(3)
         
 
-bot = FacebookBot('subhamyadav580@gmail.com', 'yadav123shubham')
+bot = FacebookBot('email', 'password')
 bot.updateStatus()
 
 
