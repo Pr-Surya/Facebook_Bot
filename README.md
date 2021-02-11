@@ -1,8 +1,11 @@
 # Facebook_Bot
 
-Step : 1
+<h3>Step : 1</h3>
+<h4>install selenium</h4>
 `pip install selenium`
-Step : 2
+<h3>Step : 2</h3>
+<h4>install keyboard</h4>
 `pip install keyboard`
-Step : 3
+<h3>Step : 3</h3>
+<h4>Run Program</h4>
 `python3 bot.py`
